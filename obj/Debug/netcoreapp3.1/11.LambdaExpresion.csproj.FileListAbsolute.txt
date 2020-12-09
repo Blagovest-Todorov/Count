@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\bin\Debug\netcoreapp3.1\11.LambdaExpresion.exe
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\bin\Debug\netcoreapp3.1\11.LambdaExpresion.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\bin\Debug\netcoreapp3.1\11.LambdaExpresion.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\bin\Debug\netcoreapp3.1\11.LambdaExpresion.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\bin\Debug\netcoreapp3.1\11.LambdaExpresion.dll
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\bin\Debug\netcoreapp3.1\11.LambdaExpresion.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\obj\Debug\netcoreapp3.1\11.LambdaExpresion.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\obj\Debug\netcoreapp3.1\11.LambdaExpresion.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\obj\Debug\netcoreapp3.1\11.LambdaExpresion.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\obj\Debug\netcoreapp3.1\11.LambdaExpresion.dll
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\obj\Debug\netcoreapp3.1\11.LambdaExpresion.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\11.LambdaExpresion\obj\Debug\netcoreapp3.1\11.LambdaExpresion.genruntimeconfig.cache
